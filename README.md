@@ -1,0 +1,1 @@
+[![Build Status](https://secure.travis-ci.org/d-ikeda/testTravis.png)]
