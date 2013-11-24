@@ -1,0 +1,2 @@
+service_name: travis       # 利用しているCIを記述
+repo_token: 6b1IrMfZXNODsmwdi2LtJ09RBkafwHGp7 # 実際にはサイトに記述されているtokenを記述
